@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/aaba2179-e94b-47f3-9daf-0543e84a7b6d)
 
 
-# Note - Practical + notes are updated on PDF formate - uploaded here 
+# Note - Practical + notes are updated in PDF format - uploaded here 
 
 Install Jenkins, configure Docker as agent, set up cicd, deploy applications to k8s and much more.
 
